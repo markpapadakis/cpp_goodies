@@ -232,7 +232,7 @@ namespace Switch
 
                 auto max_size() const
                 {
-                        return maxCapacity;
+                        return capacity;
                 }
 
                 inline auto size() const
